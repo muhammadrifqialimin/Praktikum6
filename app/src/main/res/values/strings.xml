@@ -4,4 +4,5 @@
     <string name="back">Back</string>
     <string name="nama_lengkap">NAMA LENGKAP</string>
     <string name="jenis_kelamin">JENIS KELAMIN</string>
+    <string name="alamat">ALAMAT</string>
 </resources>
