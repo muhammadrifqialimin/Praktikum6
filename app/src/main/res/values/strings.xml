@@ -6,4 +6,5 @@
     <string name="jenis_kelamin">JENIS KELAMIN</string>
     <string name="alamat">ALAMAT</string>
     <string name="tampil">Tampil Data</string>
+    <string name="home">Form Isian</string>
 </resources>
